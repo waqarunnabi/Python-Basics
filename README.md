@@ -1,2 +1,1 @@
-# Python-Basics
-Smarter Way to Learn Python
+# AI-piaic

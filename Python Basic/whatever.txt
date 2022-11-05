@@ -1,0 +1,6 @@
+
+In all the coding so far in this book, none of the data has been preserved. We
+created variables, lists, dictionaries, and class instances that contained
+information, but as soon as the computer was turned off, all of it disappeared.
+
+
