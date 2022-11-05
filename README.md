@@ -1,1 +1,1 @@
-# AI-piaic
+# Smarter Way to Learn Python
