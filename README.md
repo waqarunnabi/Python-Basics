@@ -1,1 +1,1 @@
-# Smarter Way to Learn Python
+# Learn Python basic step by step
